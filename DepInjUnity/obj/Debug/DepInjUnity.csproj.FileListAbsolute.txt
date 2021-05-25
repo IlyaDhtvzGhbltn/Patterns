@@ -1,0 +1,16 @@
+D:\Trash\Patterns\DepInjUnity\bin\Debug\DepInjUnity.exe.config
+D:\Trash\Patterns\DepInjUnity\bin\Debug\DepInjUnity.exe
+D:\Trash\Patterns\DepInjUnity\bin\Debug\DepInjUnity.pdb
+D:\Trash\Patterns\DepInjUnity\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Trash\Patterns\DepInjUnity\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Trash\Patterns\DepInjUnity\bin\Debug\Unity.Abstractions.dll
+D:\Trash\Patterns\DepInjUnity\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Trash\Patterns\DepInjUnity\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Trash\Patterns\DepInjUnity\bin\Debug\Unity.Abstractions.pdb
+D:\Trash\Patterns\DepInjUnity\obj\Debug\DepInjUnity.csprojAssemblyReference.cache
+D:\Trash\Patterns\DepInjUnity\obj\Debug\DepInjUnity.csproj.CoreCompileInputs.cache
+D:\Trash\Patterns\DepInjUnity\obj\Debug\DepInjUnity.csproj.CopyComplete
+D:\Trash\Patterns\DepInjUnity\obj\Debug\DepInjUnity.exe
+D:\Trash\Patterns\DepInjUnity\obj\Debug\DepInjUnity.pdb
+D:\Trash\Patterns\DepInjUnity\bin\Debug\Unity.Container.dll
+D:\Trash\Patterns\DepInjUnity\bin\Debug\Unity.Container.pdb

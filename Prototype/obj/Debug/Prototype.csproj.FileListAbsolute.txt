@@ -1,0 +1,7 @@
+D:\Trash\ConsoleApp11\Prototype\bin\Debug\Prototype.exe.config
+D:\Trash\ConsoleApp11\Prototype\bin\Debug\Prototype.exe
+D:\Trash\ConsoleApp11\Prototype\bin\Debug\Prototype.pdb
+D:\Trash\ConsoleApp11\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+D:\Trash\ConsoleApp11\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\Trash\ConsoleApp11\Prototype\obj\Debug\Prototype.exe
+D:\Trash\ConsoleApp11\Prototype\obj\Debug\Prototype.pdb

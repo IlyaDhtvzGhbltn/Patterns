@@ -1,0 +1,7 @@
+D:\Trash\Patterns\Factory Method\bin\Debug\Factory Method.exe.config
+D:\Trash\Patterns\Factory Method\bin\Debug\Factory Method.exe
+D:\Trash\Patterns\Factory Method\bin\Debug\Factory Method.pdb
+D:\Trash\Patterns\Factory Method\obj\Debug\Factory Method.csprojAssemblyReference.cache
+D:\Trash\Patterns\Factory Method\obj\Debug\Factory Method.csproj.CoreCompileInputs.cache
+D:\Trash\Patterns\Factory Method\obj\Debug\Factory Method.exe
+D:\Trash\Patterns\Factory Method\obj\Debug\Factory Method.pdb
